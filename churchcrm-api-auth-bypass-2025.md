@@ -30,4 +30,3 @@ curl -i 'https://<target>/api/persons/latest?bypass=api/public'
 ## Timeline
 - 2025-09-26 — Reported privately via GitHub security advisory.
 - 2025-10-04 — Fix merged in PR #7376; maintainer closed the private advisory.
-- 2025-10-06 — CVE request submitted by reporter.
